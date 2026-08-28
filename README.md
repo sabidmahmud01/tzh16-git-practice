@@ -1,5 +1,5 @@
 # Developer Profile
 
-- **Name:** Sabid Mahmud
+- **Developer:** Alex
 - **Hobby:** Playing Soccer
 - **Preferred Development Tool:** Visual Studio Code
