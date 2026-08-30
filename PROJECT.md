@@ -1,7 +1,7 @@
 # Project Idea
 
 ## Project Name
-TBD
+Campus Connect
 
 ## Problem to Solve
 TBD
